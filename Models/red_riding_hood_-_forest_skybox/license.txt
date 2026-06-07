@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Riding Hood - Forest Skybox
+* source:	https://sketchfab.com/3d-models/red-riding-hood-forest-skybox-5cdc1e0ae657478abf0692d7fc3c6d82
+* author:	norhafizah (https://sketchfab.com/norhafizah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Riding Hood - Forest Skybox" (https://sketchfab.com/3d-models/red-riding-hood-forest-skybox-5cdc1e0ae657478abf0692d7fc3c6d82) by norhafizah (https://sketchfab.com/norhafizah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
