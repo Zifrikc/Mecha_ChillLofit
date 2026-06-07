@@ -23,9 +23,7 @@ export default function App() {
   return (
     <>
       <LoadingHandler />
-      <Suspense fallback={null}>
-        <Layout />
-      </Suspense>
+      <Layout />
     </>
   )
 }
