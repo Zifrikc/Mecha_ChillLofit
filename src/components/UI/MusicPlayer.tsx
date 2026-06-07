@@ -7,7 +7,7 @@ import { useAppStore } from '../../store/useAppStore'
 export default function MusicPlayer() {
   const [isOpen, setIsOpen] = useState(false)
   const [isIdle, setIsIdle] = useState(false)
-  const currentTrack = useAppStore((s) => s.currentTrack)
+  const currentTrack = useAppStore((s) => s.activeTrack)
 
   // Inactivity timer
   useEffect(() => {
